@@ -36,6 +36,9 @@ set scrolloff=8
 " Wrap lines when editing .tex files.
 autocmd FileType tex setlocal wrap linebreak nolist nu
 
+" For CS124...
+autocmd FileType c setlocal tabstop=4 shiftwidth=4
+
 " Turn off swap files
 set noswapfile
 set nobackup
