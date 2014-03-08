@@ -44,6 +44,7 @@ autocmd FileType tex setlocal wrap linebreak nolist nu
 
 " For CS124...
 autocmd FileType c setlocal tabstop=4 shiftwidth=4
+autocmd FileType cpp setlocal tabstop=4 shiftwidth=4
 
 " Turn off swap files
 set noswapfile
