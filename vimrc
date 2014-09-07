@@ -51,6 +51,9 @@ set laststatus=2
 " Set file format to Unix.
 set ff=unix
 
+" Fortran free-form source
+let fortran_free_source
+
 " Completion
 set wildmode=list:longest
 set wildmenu                "enable ctrl-n and ctrl-p to scroll thru matches
