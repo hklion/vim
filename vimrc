@@ -52,7 +52,7 @@ set laststatus=2
 set ff=unix
 
 " Fortran free-form source
-let fortran_free_source
+let fortran_free_source=1
 
 " Completion
 set wildmode=list:longest
