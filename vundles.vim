@@ -17,10 +17,6 @@ Bundle "gmarik/vundle"
 
 " ===== List of all bundles =====
 
-" File navigation
-Bundle "jistr/vim-nerdtree-tabs"
-Bundle "scrooloose/nerdtree"
-
 " Status line
 Bundle "bling/vim-airline"
 
