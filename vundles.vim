@@ -23,6 +23,9 @@ Bundle "bling/vim-airline"
 " Git
 Bundle "tpope/vim-fugitive"
 
+" Latex
+Bundle "lervag/vimtex"
+
 " Javascript
 Bundle "pangloss/vim-javascript"
 Bundle "othree/javascript-libraries-syntax.vim"
