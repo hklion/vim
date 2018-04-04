@@ -20,7 +20,7 @@ set autoread
 " Turn syntax highlighting on.
 syntax on
 set background=dark
-colorscheme jellybeans
+colorscheme smyck
 
 " Indentation
 filetype on
