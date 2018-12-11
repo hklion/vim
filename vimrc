@@ -70,6 +70,18 @@ set wildignore+=*.png,*.jpg,*.gif
 
 " Latex 
 "let g:vimtex_fold_enabled = 1
+let g:latex_quickfix_ignored_warnings =
+  \"Underfull"."\n"
+  \"Overfull"."\n"
+  \"specifier changed to"."\n"
+  \"You have requested"."\n"
+  \"Missing number, treated as zero."."\n"
+  \"There were undefined references"."\n"
+  \"Latex Warning:"."\n"
+  \"Citation %.%# undefined"
+  \"Package".
+
+let g:Tex_IgnoreLevel = 9
 
 let g:vimtex_view_general_viewer
                   \ = '/Applications/Skim.app/Contents/SharedSupport/displayline'

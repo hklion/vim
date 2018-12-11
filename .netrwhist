@@ -1,5 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/hklion/software'
 let g:netrw_dirhist_2='/Users/hklion/Dropbox/Berkeley/classes'
 let g:netrw_dirhist_3='/Users/hklion/Dropbox/Berkeley'
+let g:netrw_dirhist_4='/Users/hklion/.vim'
+let g:netrw_dirhist_5='/Users/hklion/Dropbox/Research/ns_merger/sedona_scripts/templates'
+let g:netrw_dirhist_6='/Users/hklion/software/einstein_toolkit/Cactus/repos/simfactory2/mdb/machines'
+let g:netrw_dirhist_7='/Users/hklion/Dropbox/Research/ns_merger/plots/comp/gray_therm_pow-ke'
+let g:netrw_dirhist_8='/Users/hklion/software/einstein_toolkit/Cactus/configs/sim'
+let g:netrw_dirhist_9='/Users/hklion/Dropbox/Research/2018_mesa_school/astero_2018/LOGS'
